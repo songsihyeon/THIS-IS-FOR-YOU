@@ -75,7 +75,7 @@ const c = 'Wait';
 console.log(c);
 ```
 
-재할당 ( O )
+재할당 ( X )
 
 ```js
 // Uncaught TypeError: Assignment to constant variable.
