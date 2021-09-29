@@ -8,3 +8,4 @@
 - [javascript 변수 선언](./Archive/js/var_let_const.md)
 - [HTTP vs HTTPS](./Archive/web/HttpVsHttps.md)
 - [컴파일 언어 vs 인터프리터 언어](./Archive/cs/CompilerVsInterpreter.md)
+- [웹의 동작 방식](./Archive/web/웹_동작방식.md)
