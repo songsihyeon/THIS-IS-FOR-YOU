@@ -12,6 +12,10 @@
 
 - [인터넷의 동작 원리](./Archive/Internet/인터넷의_동작원리.md)
 
+#### Browsers
+
+- [CORS 정책](./Archive/browsers/cors.md)
+
 #### Computer Science
 
 - [컴파일 언어 vs 인터프리터 언어](./Archive/cs/CompilerVsInterpreter.md)
