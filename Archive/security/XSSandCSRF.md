@@ -30,3 +30,5 @@ XSS 를 사용하여 사용자의 쿠키 정보 및 세션 ID를 획득할 수 �
 - **`referrer`** 검증 : 요청 헤더에 있는 `referrer` 속성을 검증하여 신뢰할 수 있는 도메인에서 들어오는 요청인지 검증한다.
 - **CSRF 토큰** : 난수 (Random Number)를 서버쪽 사용자의 세션에 저장하고 요청할 때 난수를 CSRF 토큰으로 지정하여 사용자에게 전송한다. 이후 요청부터 토큰이 일치하는지 확인하여 검증한다.
 - **캡챠(Captcha) 사용** : 사용자와의 상호작용을 통해서 숫자/문자를 입력하여 검증한다.
+
+[카피카피열매](https://github.com/baeharam/Must-Know-About-Frontend/blob/main/Notes/security/xss-csrf.md)

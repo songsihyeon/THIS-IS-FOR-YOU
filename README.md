@@ -34,3 +34,7 @@
 #### Algorithm
 
 - [Big O 표기법](./Archive/algorithm/bigO.md)
+
+#### Web security
+
+- [XSS 와 CSRF](./Archive/security/XSSandCSRF.md)
