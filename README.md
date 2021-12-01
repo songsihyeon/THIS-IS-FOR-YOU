@@ -4,10 +4,15 @@
 
 #### Javascript
 
+- [Prototype 이란 ?](./Archive/js/prototype.md)
 - [javascript 동작 원리](./Archive/js/js_동작원리.md)
 - [javascript 비동기 처리](./Archive/js/CallBack.md)
 - [javascript 변수 선언](./Archive/js/var_let_const.md)
 - [이벤트 위임](./Archive/js/event-delegation.md)
+
+### Design Pattern
+
+- [Design Pattern 이란 ?](./Archive/designPattern/design-pattern.md)
 
 ### React
 
