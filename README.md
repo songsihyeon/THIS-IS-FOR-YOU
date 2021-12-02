@@ -9,6 +9,7 @@
 - [javascript 비동기 처리](./Archive/js/CallBack.md)
 - [javascript 변수 선언](./Archive/js/var_let_const.md)
 - [이벤트 위임](./Archive/js/event-delegation.md)
+- [순수 함수](./Archive/js/pureFunc.md)
 
 ### Design Pattern
 

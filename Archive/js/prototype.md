@@ -125,3 +125,5 @@ kim 객체가 eyes 를 직접 가지고 있지 않기 때문에 eyes 속성을 �
 ![](https://miro.medium.com/max/1400/1*mwPfPuTeiQiGoPmcAXB-Kg.png)
 
 이런 프로토타입 체인 구조 때문에 모든 객체는 Object 의 자식이라고 불리고, Object Prototype Object 에 있는 모든 속성을 사용할 수 있다.
+
+[ㅋㅍㅋㅍㅇㅁ](https://medium.com/@bluesh55/javascript-prototype-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-f8e67c286b67)
