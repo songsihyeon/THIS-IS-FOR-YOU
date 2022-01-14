@@ -33,6 +33,7 @@
 
 - [CORS 정책](./Archive/browsers/cors.md)
 - [브라우저의 렌더링 과정](./Archive/browsers/browserRender.md)
+- [쿠키 세션 토큰](./Archive/browsers/CST.md)
 
 #### Computer Science
 
