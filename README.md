@@ -13,7 +13,7 @@
 
 #### HTML CSS
 
-- [Box model](./Archive/HTML&CSS/blockInline.md)
+- [Box model](./Archive/HTML&CSS/boxModel.md)
 - [Content Box 와 Border Box](./Archive/HTML&CSS/contentBoxBorderBox.md)
 - [Block element 와 inline element](./Archive/HTML&CSS/blockInline.md)
 
