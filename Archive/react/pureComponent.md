@@ -27,4 +27,4 @@ React.PureComponent 는 shouldComponentUpdate() 를 얕은 비교를 통해 구�
 
 > memo는 함수형 컴포넌트에서 PureComponent 와 같이 수행된다.
 
-> **state 난 props의 데이터가 변경되지 않으면 컴포넌트를 업데이트 하지 않아도 된다면 PureComponent 나 memo 를 사용하자 !1**
+> **state 난 props의 데이터가 변경되지 않으면 컴포넌트를 업데이트 하지 않아도 된다면 PureComponent 나 memo 를 사용하자 !!**

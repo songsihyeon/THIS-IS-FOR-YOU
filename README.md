@@ -24,6 +24,8 @@
 #### React
 
 - [React의 렌더링](./Archive/react/reactRender.md)
+- [PureComponent & memo](./Archive/react/pureComponent.md)
+- [getStaticProps & getServerSideProps](./Archive/react/nextProps.md)
 
 #### Internet
 
